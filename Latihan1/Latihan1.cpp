@@ -8,7 +8,6 @@ int main()
 	
 	int nUmur = 35;
 	cout << "umur saya adalah " << nUmur << endl << "Salam kenal ya";
-	
 
 
 }//end
